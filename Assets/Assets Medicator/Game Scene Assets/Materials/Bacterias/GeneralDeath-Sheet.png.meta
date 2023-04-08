@@ -1,0 +1,538 @@
+fileFormatVersion: 2
+guid: 550012d14958f894d89245529c6ca7ce
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GeneralDeath-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 716
+        width: 171
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27291fc8a9c64ce489e084759a685eea
+      internalID: -1254215615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeneralDeath-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 674
+        width: 185
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5a8a00938c7ad4aa6356f317156c16
+      internalID: 948817364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeneralDeath-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 674
+        width: 210
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba21610a132d399438ce736a925ac676
+      internalID: 979531752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeneralDeath-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 700
+        width: 210
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce7b485eca591947ac2f36c2209c1c5
+      internalID: -1712248074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zapDie1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 519
+        width: 341
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31880ad22d6b7394b824867ba0ac7898
+      internalID: -423320984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longganisaDie4
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 370
+        width: 265
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f5d422dda5ad547870c7cf485af759
+      internalID: -1073980492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotdogdie4
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 196
+        width: 222
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50d91aad6fe52540b7a2edaca5629bb
+      internalID: -752055489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotdogdie3
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 196
+        width: 222
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d187ba7955775b44cb834a512089a9bf
+      internalID: -872129278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotdogdie2
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 196
+        width: 222
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a79b0397eb659a42bf042370b45e863
+      internalID: 1239764433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotdogdie1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 196
+        width: 222
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0061dc5b49df7604ca085891f031cbc1
+      internalID: 1745922311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longganisaDie3
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 370
+        width: 265
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed43d491b480594bb55dd22da80a9cd
+      internalID: -247085496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longganisaDie2
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 370
+        width: 265
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162d8676ee11c55499b2504b5a33e712
+      internalID: -1454621181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longganisaDie1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 370
+        width: 265
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f796335c7d94c8444a37b0a323758718
+      internalID: -1738635646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zapDie2
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 519
+        width: 341
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230f8898ffde7fa42927ee8f3e605844
+      internalID: -702288412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zapDie3
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 519
+        width: 341
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6884712a910b49429b66cfd068d45ba
+      internalID: -322775082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zapDie4
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 519
+        width: 341
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a904b071418349340a0d7c6e372b3888
+      internalID: 697149605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GeneralDeath-Sheet_8: -1583069063
+      GeneralDeath-Sheet_9: 1431495286
+      zapDie2: -702288412
+      GeneralDeath-Sheet_40: 749555710
+      GeneralDeath-Sheet_17: 1884964729
+      GeneralDeath-Sheet_41: 2019075334
+      GeneralDeath-Sheet_29: 1934364726
+      GeneralDeath-Sheet_46: 1768557068
+      GeneralDeath-Sheet_1: 948817364
+      GeneralDeath-Sheet_21: -1703584180
+      GeneralDeath-Sheet_23: 1231100159
+      GeneralDeath-Sheet_13: 1244577814
+      zapDie1: -423320984
+      GeneralDeath-Sheet_2: 979531752
+      longganisaDie4: -1073980492
+      GeneralDeath-Sheet_34: -1008356085
+      GeneralDeath-Sheet_37: -454639391
+      GeneralDeath-Sheet_25: -1699492148
+      GeneralDeath-Sheet_26: -1518524033
+      GeneralDeath-Sheet_18: -521215188
+      GeneralDeath-Sheet_48: 2112622808
+      GeneralDeath-Sheet_45: 626139614
+      GeneralDeath-Sheet_10: 172175380
+      GeneralDeath-Sheet_11: -1921325707
+      GeneralDeath-Sheet_42: 1372312614
+      hotdogdie4: -496711959
+      GeneralDeath-Sheet_44: -187049176
+      GeneralDeath-Sheet_47: 1189548810
+      GeneralDeath-Sheet_0: -1254215615
+      GeneralDeath-Sheet_3: -1712248074
+      hotdogdie1: -1382415938
+      GeneralDeath-Sheet_28: 572414772
+      GeneralDeath-Sheet_35: -424546468
+      GeneralDeath-Sheet_38: -1532365733
+      GeneralDeath-Sheet_16: 231982274
+      hotdogdie3: 192314509
+      GeneralDeath-Sheet_43: -543896311
+      zapDie4: 697149605
+      GeneralDeath-Sheet_30: -106789144
+      longganisaDie3: -247085496
+      GeneralDeath-Sheet_32: -550060779
+      GeneralDeath-Sheet_14: -2089192273
+      GeneralDeath-Sheet_33: -718235740
+      GeneralDeath-Sheet_36: -2061754125
+      GeneralDeath-Sheet_12: 698734221
+      longganisaDie2: -1454621181
+      GeneralDeath-Sheet_24: 534855532
+      zapDie3: -322775082
+      hotdogdie2: 1293937339
+      longganisaDie1: -1738635646
+      GeneralDeath-Sheet_15: 1833357861
+      GeneralDeath-Sheet_39: -597819032
+      GeneralDeath-Sheet_19: 473214688
+      GeneralDeath-Sheet_22: 113331402
+      GeneralDeath-Sheet_27: 185062141
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

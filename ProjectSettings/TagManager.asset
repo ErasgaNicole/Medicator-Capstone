@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - outBounds
+  - enemyCollider
+  - towerCollider
+  - playerBound
+  - removeTower
+  - spawnCollider1
+  - spawnCollider2
+  - spawnCollider3
+  - spawnCollider4
+  - spawnCollider5
+  - spawnCollider6
+  - spawnCollider7
+  - spawnCollider8
+  - spawnCollider9
+  - spawnCollider10
+  - attackRange
+  - spawnCollider11
+  - spawnCollider12
+  - spawnCollider13
+  - spawnCollider14
+  - Music
+  - slowProjectile
+  - yellowProjectile
+  - shieldCollider
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Spawn Point
+  - Particle Layer
+  - bgTower
+  - Towers
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 330958457
+    locked: 0
+  - name: Towers
+    uniqueID: 3577758483
+    locked: 0
+  - name: Enemies
+    uniqueID: 166234511
+    locked: 0
+  - name: Projectile
+    uniqueID: 944682833
+    locked: 0
+  - name: User Interface
+    uniqueID: 2738109583
+    locked: 0
+  - name: UI Towers
+    uniqueID: 2065105241
+    locked: 0

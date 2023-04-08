@@ -1,0 +1,1356 @@
+fileFormatVersion: 2
+guid: 5da2c619d8018f94cb926f0ca3e44ff5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tcell1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 825
+        width: 63
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80253592898b7814793d64ff1778dea8
+      internalID: 868556938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutrophil1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 760
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194673d8300cef04983ac89d9e08245c
+      internalID: 924259562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MastCell1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 695
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f0db8672d871e4eb85ccef0663d9bd
+      internalID: 909436733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MastCell2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 695
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776ef2e9597089b409d740ed09f89ec8
+      internalID: -1896390770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MastCell3
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 695
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fdf6cf7ee43e7e4c8426bedbb799797
+      internalID: -532877628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MastCell4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 695
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729c2493f5025664c9eda84076e0201f
+      internalID: 731021263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KillCell3
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 564
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a149a612d875ec848911fd5615647e6b
+      internalID: -1538281698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basophil1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 500
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b743284f80a8094cbc490423eff3a1f
+      internalID: 651611735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basophil4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 500
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ea4b301166eab4685a195996139391
+      internalID: -590139414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eosinophil2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 439
+        width: 64
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e558fff0f3792e4e83459d457cda718
+      internalID: -1433437132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eosinophil4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 439
+        width: 64
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4b2e9269c666c4fa472b641e696a43
+      internalID: -543703775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dendric1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 359
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940fd7ce42f785a4aba95ddf73339575
+      internalID: 1455958796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Macrophage4
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 173
+        width: 136
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8409944bb9ffd04e86153761f391c5f
+      internalID: 705230464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tcell2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 825
+        width: 63
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7110d167ad748354cb8fc3a22f42ed77
+      internalID: 735446783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tcell3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 825
+        width: 63
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16c78367882b2c439244461ea3ba0bb
+      internalID: 95306501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tcell4
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 825
+        width: 63
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1af9400626020245b6c64cc34f73ede
+      internalID: -344082835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutrophil2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 760
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2578a7d221c3ea1438a00062b34becb2
+      internalID: -1927088348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutrophil3
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 760
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc3c4a212ab3284a8aa84c7e053f6a7
+      internalID: 541162282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutrophil4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 760
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7432b38b5925c7b4cb965ad220c88760
+      internalID: -305025024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bcell4
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 623
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843c8a86d6c02e748b0bdd871b404ac3
+      internalID: 1906256852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bcell3
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 623
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a7f4508e4346144890687383181d99
+      internalID: -1600410386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bcell2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 623
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0077c09e3d124544983e10b68977ea7a
+      internalID: -877928642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bcell1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 623
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d6a50d3069839458b00c91bf96f6e8
+      internalID: -382421746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KillCell2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 564
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d399c2110d077c4eafc755033785bf6
+      internalID: 1713795681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KillCell1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 564
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5bf235195527374f930d764ee36d80a
+      internalID: 1337300915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KillCell4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 564
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef03fd59439142a44bc704522175019a
+      internalID: -921246572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basophil2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 500
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7cd7af4b105264595dc296d62f3fe0
+      internalID: 403387789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basophil3
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 500
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d42cf2fcc15f04db56f9cd65b945e1
+      internalID: -1101022036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eosinophil3
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 439
+        width: 64
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ad9165f70f9e44fbe61dc30467aaa4
+      internalID: 69282064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eosinophil1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 439
+        width: 64
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa1596421abdb24dada3be26f9f53cd
+      internalID: 656018486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dendric2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 359
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c295a6dfa1aabc34a91c7dfc602bc9f7
+      internalID: 822051298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dendric3
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 359
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2e790dde31d034f9ca431a3c08269b
+      internalID: -534981147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dendric4
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 359
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64b6728b3c5f6940a6a2266ccb36984
+      internalID: -685838541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complements2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 285
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc35b9cd9169a8d4c872e6ab19c0f24d
+      internalID: -200309448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complements1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 285
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b5d0479c07cf4468082bf37dd216e1
+      internalID: -890087549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complements3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 285
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e2147352359594cb78a28056794428
+      internalID: -1484598306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complements4
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 285
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef7ac432a5764b448b27386ef2e11d1
+      internalID: -822518517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Macrophage3
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 173
+        width: 136
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9381fbcbb9fa7dd41af97faa9d98fd24
+      internalID: 415612098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Macrophage2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 173
+        width: 136
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da2eeb6546935949a75fcab1667b134
+      internalID: 718049785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Macrophage1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 173
+        width: 136
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6953a930ca101fe48822b1976af6490a
+      internalID: 2111345084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antibody1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 16
+        width: 223
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f694f5ec8f2824187cd1baa79787bd
+      internalID: 2114821067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antibody2
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 16
+        width: 223
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5656a0a6e448ec42aa9bae5ba311326
+      internalID: 274441905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antibody3
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 16
+        width: 173
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfe7cf4d6c6221428a6e49f43c1286c
+      internalID: 1181681847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TowersSpriteSheet_80: 1188760641
+      TowersSpriteSheet_209: -1325489202
+      TowersSpriteSheet_48: 503647383
+      Dendric2: 1455958796
+      TowersSpriteSheet_296: 1185700456
+      Complements4: -1484598306
+      TowersSpriteSheet_233: 1952284497
+      TowersSpriteSheet_122: -1973073867
+      TowersSpriteSheet_190: -214206322
+      TowersSpriteSheet_104: -1271098741
+      TowersSpriteSheet_255: -47761154
+      TowersSpriteSheet_258: -806103687
+      TowersSpriteSheet_271: 432021999
+      TowersSpriteSheet_180: -1874281084
+      TowersSpriteSheet_115: 940072993
+      TowersSpriteSheet_124: -174628231
+      TowersSpriteSheet_261: -953928374
+      TowersSpriteSheet_56: 433155476
+      TowersSpriteSheet_111: -121979807
+      TowersSpriteSheet_129: -502034251
+      TowersSpriteSheet_52: -439937991
+      TowersSpriteSheet_143: -1244844903
+      TowersSpriteSheet_198: 1807068615
+      TowersSpriteSheet_225: 468689651
+      TowersSpriteSheet_100: -753137389
+      TowersSpriteSheet_128: 1552853882
+      TowersSpriteSheet_90: -1118530371
+      TowersSpriteSheet_154: 561170339
+      TowersSpriteSheet_247: -964391211
+      TowersSpriteSheet_252: -643410440
+      TowersSpriteSheet_207: -158026351
+      TowersSpriteSheet_136: -1917666115
+      TowersSpriteSheet_95: 1819965248
+      TowersSpriteSheet_240: 1036363655
+      TowersSpriteSheet_260: 448961918
+      Macrophage1: 2111345084
+      TowersSpriteSheet_266: -867330565
+      TowersSpriteSheet_49: -230488082
+      TowersSpriteSheet_186: 1701742744
+      TowersSpriteSheet_226: -1239107640
+      TowersSpriteSheet_175: 1659770795
+      TowersSpriteSheet_81: 1472112395
+      TowersSpriteSheet_92: -506521686
+      TowersSpriteSheet_200: 240034523
+      TowersSpriteSheet_301: -1868264620
+      TowersSpriteSheet_293: -327407085
+      TowersSpriteSheet_114: -2109640434
+      TowersSpriteSheet_58: 1447809687
+      TowersSpriteSheet_149: -1476134646
+      TowersSpriteSheet_178: -193506490
+      TowersSpriteSheet_188: 91286034
+      TowersSpriteSheet_274: 1997437668
+      TowersSpriteSheet_287: -2098821161
+      TowersSpriteSheet_295: 292971937
+      TowersSpriteSheet_137: 315077517
+      TowersSpriteSheet_219: 1112838901
+      Basophil1: 651611735
+      TowersSpriteSheet_113: -618287072
+      TowersSpriteSheet_72: 666066257
+      TowersSpriteSheet_182: -103087431
+      TowersSpriteSheet_46: 1902063148
+      TowersSpriteSheet_230: 653403163
+      TowersSpriteSheet_47: 824421792
+      TowersSpriteSheet_212: -309057130
+      TowersSpriteSheet_264: 1182661720
+      TowersSpriteSheet_211: -175405995
+      TowersSpriteSheet_150: 1643851527
+      Macrophage2: 2111345084
+      TowersSpriteSheet_148: -838164031
+      tcell1: 868556938
+      TowersSpriteSheet_88: 275376459
+      TowersSpriteSheet_303: -1517148912
+      TowersSpriteSheet_297: 1196962931
+      TowersSpriteSheet_70: 1975533027
+      TowersSpriteSheet_159: 250043093
+      TowersSpriteSheet_177: 276784849
+      Bcell2: -382421746
+      Complements2: -890087549
+      TowersSpriteSheet_184: -534904618
+      TowersSpriteSheet_106: -1279058986
+      TowersSpriteSheet_73: -1367550599
+      TowersSpriteSheet_108: 1022552292
+      TowersSpriteSheet_68: 677661530
+      TowersSpriteSheet_299: -1223129122
+      TowersSpriteSheet_173: -372711508
+      TowersSpriteSheet_241: 1970730781
+      TowersSpriteSheet_223: 21832628
+      TowersSpriteSheet_103: -942531610
+      TowersSpriteSheet_235: 1377407390
+      TowersSpriteSheet_158: -1479285190
+      Complements3: -200309448
+      TowersSpriteSheet_97: -114944326
+      TowersSpriteSheet_245: 6366166
+      TowersSpriteSheet_161: 767137350
+      TowersSpriteSheet_60: -712094885
+      TowersSpriteSheet_268: -1701144798
+      TowersSpriteSheet_107: -1638564301
+      Neutrophil4: 541162282
+      TowersSpriteSheet_75: 2053406027
+      TowersSpriteSheet_251: 1591474400
+      Dendric4: -534981147
+      TowersSpriteSheet_145: 957243913
+      TowersSpriteSheet_174: 515846817
+      Basophil2: 651611735
+      TowersSpriteSheet_165: -248147952
+      TowersSpriteSheet_153: 2130569713
+      Eosinophil3: -1433437132
+      TowersSpriteSheet_147: -615527436
+      TowersSpriteSheet_181: -930949512
+      TowersSpriteSheet_199: 1532828407
+      TowersSpriteSheet_206: -625399048
+      TowersSpriteSheet_294: 2072616825
+      TowersSpriteSheet_213: 458679909
+      TowersSpriteSheet_202: 1818001056
+      TowersSpriteSheet_156: -1804773596
+      TowersSpriteSheet_79: 1301559889
+      TowersSpriteSheet_275: 1164299284
+      TowersSpriteSheet_277: 2062840777
+      TowersSpriteSheet_204: -54730936
+      TowersSpriteSheet_160: -1740642036
+      TowersSpriteSheet_218: -699305408
+      TowersSpriteSheet_234: -137202122
+      TowersSpriteSheet_63: 1324403234
+      Neutrophil1: 924259562
+      TowersSpriteSheet_96: 93442980
+      TowersSpriteSheet_231: -732853170
+      TowersSpriteSheet_157: 1614667326
+      MastCell1: 909436733
+      TowersSpriteSheet_298: 1195412917
+      TowersSpriteSheet_152: 362145450
+      TowersSpriteSheet_208: -1116599556
+      TowersSpriteSheet_84: 1572702021
+      TowersSpriteSheet_283: -1709137252
+      KillCell4: -1538281698
+      TowersSpriteSheet_110: 1016862282
+      TowersSpriteSheet_270: -1008179465
+      TowersSpriteSheet_144: 1619002747
+      TowersSpriteSheet_105: -1852508607
+      TowersSpriteSheet_64: -92008550
+      TowersSpriteSheet_272: -147851448
+      TowersSpriteSheet_99: 302059312
+      TowersSpriteSheet_142: 586894020
+      TowersSpriteSheet_164: -489317702
+      TowersSpriteSheet_42: -1039926637
+      Antibody1: 2114821067
+      TowersSpriteSheet_65: 1448449573
+      TowersSpriteSheet_224: 420603984
+      TowersSpriteSheet_102: 1494046401
+      TowersSpriteSheet_85: 1760894648
+      TowersSpriteSheet_285: -1134037444
+      TowersSpriteSheet_215: 917882970
+      TowersSpriteSheet_101: 1286432052
+      TowersSpriteSheet_170: 594625937
+      Dendric3: 822051298
+      TowersSpriteSheet_167: 2029879290
+      MastCell3: -1896390770
+      TowersSpriteSheet_141: 1263593606
+      TowersSpriteSheet_248: -1134997197
+      TowersSpriteSheet_262: 1925336256
+      TowersSpriteSheet_192: 1930529383
+      TowersSpriteSheet_71: -1752981860
+      TowersSpriteSheet_126: -1913275809
+      TowersSpriteSheet_121: -1949864234
+      TowersSpriteSheet_216: 1616807082
+      TowersSpriteSheet_98: -1213584869
+      TowersSpriteSheet_259: -441844673
+      TowersSpriteSheet_214: -150181475
+      TowersSpriteSheet_228: -535775396
+      TowersSpriteSheet_125: 1378380912
+      TowersSpriteSheet_238: -471300778
+      TowersSpriteSheet_187: 643453953
+      TowersSpriteSheet_281: 1559715303
+      Antibody2: 2114821067
+      TowersSpriteSheet_119: 1561265159
+      Bcell4: -1600410386
+      Macrophage3: 718049785
+      TowersSpriteSheet_254: -88204490
+      TowersSpriteSheet_87: 1400211916
+      TowersSpriteSheet_132: -2287852
+      TowersSpriteSheet_289: -1190881701
+      TowersSpriteSheet_61: 1951400354
+      TowersSpriteSheet_278: 2091114774
+      TowersSpriteSheet_130: 1726106163
+      TowersSpriteSheet_117: 723766373
+      TowersSpriteSheet_151: 956983387
+      TowersSpriteSheet_168: -1523227573
+      TowersSpriteSheet_169: 2080121762
+      TowersSpriteSheet_162: 1541875663
+      TowersSpriteSheet_185: -940421757
+      KillCell2: 1337300915
+      Eosinophil4: 69282064
+      TowersSpriteSheet_257: 621164665
+      TowersSpriteSheet_291: -1618303621
+      TowersSpriteSheet_183: 1015111754
+      TowersSpriteSheet_82: -1296856494
+      TowersSpriteSheet_146: -828336969
+      TowersSpriteSheet_220: -152642585
+      Bcell3: -877928642
+      TowersSpriteSheet_193: -1063016847
+      KillCell1: 1337300915
+      TowersSpriteSheet_201: 1515966595
+      Dendric1: 1455958796
+      TowersSpriteSheet_67: 691583885
+      TowersSpriteSheet_243: 569069007
+      TowersSpriteSheet_269: -927276296
+      TowersSpriteSheet_302: 1084140940
+      TowersSpriteSheet_253: -1715261501
+      TowersSpriteSheet_91: 678101932
+      TowersSpriteSheet_44: 1653601682
+      Eosinophil1: 656018486
+      TowersSpriteSheet_118: -1238899089
+      TowersSpriteSheet_155: 1620704046
+      Neutrophil2: 924259562
+      Basophil4: -1101022036
+      TowersSpriteSheet_265: -1683231712
+      TowersSpriteSheet_93: -2008565172
+      TowersSpriteSheet_249: -1791661165
+      TowersSpriteSheet_237: 1115658500
+      TowersSpriteSheet_131: -992328737
+      TowersSpriteSheet_50: 953552399
+      TowersSpriteSheet_31: -1432657890
+      TowersSpriteSheet_256: 1061148944
+      TowersSpriteSheet_195: -1302958137
+      TowersSpriteSheet_300: 1553680233
+      TowersSpriteSheet_54: 843319938
+      TowersSpriteSheet_123: 207520611
+      TowersSpriteSheet_120: 1672785770
+      TowersSpriteSheet_77: 271610574
+      TowersSpriteSheet_89: -1385320145
+      TowersSpriteSheet_53: 675783495
+      TowersSpriteSheet_221: -905703723
+      TowersSpriteSheet_217: 294791861
+      TowersSpriteSheet_292: -1247103560
+      Neutrophil3: -1927088348
+      KillCell3: 1713795681
+      TowersSpriteSheet_194: 1738043839
+      TowersSpriteSheet_127: 470148918
+      TowersSpriteSheet_69: 1332537017
+      TowersSpriteSheet_83: 931606843
+      TowersSpriteSheet_227: 1407537821
+      TowersSpriteSheet_140: 1683738571
+      TowersSpriteSheet_203: 1196134063
+      TowersSpriteSheet_286: 475959119
+      TowersSpriteSheet_62: -80584144
+      TowersSpriteSheet_222: -1947558280
+      TowersSpriteSheet_163: -1693984833
+      TowersSpriteSheet_236: 367080900
+      TowersSpriteSheet_282: -1006620402
+      Eosinophil2: 656018486
+      TowersSpriteSheet_116: -60154407
+      TowersSpriteSheet_138: -1864200272
+      MastCell2: 909436733
+      TowersSpriteSheet_205: 588220530
+      TowersSpriteSheet_166: -752079765
+      TowersSpriteSheet_172: -1221878426
+      Macrophage4: 415612098
+      TowersSpriteSheet_94: 999512051
+      TowersSpriteSheet_76: 822468526
+      TowersSpriteSheet_196: -1392606699
+      TowersSpriteSheet_288: -1451610437
+      TowersSpriteSheet_239: 740497712
+      Basophil3: 403387789
+      TowersSpriteSheet_263: -270376417
+      TowersSpriteSheet_133: 1644405075
+      TowersSpriteSheet_290: 881033193
+      TowersSpriteSheet_134: 1806361209
+      TowersSpriteSheet_112: 957952159
+      tcell3: 95306501
+      Complements1: -890087549
+      TowersSpriteSheet_176: -608039188
+      TowersSpriteSheet_45: 1286626428
+      TowersSpriteSheet_55: -2019778671
+      TowersSpriteSheet_304: -413805034
+      TowersSpriteSheet_229: 1199744692
+      tcell2: 735446783
+      Antibody3: 274441905
+      TowersSpriteSheet_246: -1881297442
+      TowersSpriteSheet_284: 2067920257
+      TowersSpriteSheet_51: 1529258731
+      TowersSpriteSheet_135: 474033516
+      TowersSpriteSheet_189: -997500237
+      TowersSpriteSheet_250: 1848881606
+      TowersSpriteSheet_78: 12321214
+      TowersSpriteSheet_280: -1547012531
+      TowersSpriteSheet_43: -521642592
+      Bcell1: -382421746
+      TowersSpriteSheet_74: 399711362
+      TowersSpriteSheet_273: 379138708
+      TowersSpriteSheet_59: 1329972913
+      TowersSpriteSheet_279: -1314239281
+      TowersSpriteSheet_179: 812101377
+      TowersSpriteSheet_86: -1747307260
+      TowersSpriteSheet_66: -1700965829
+      tcell4: -344082835
+      TowersSpriteSheet_109: -162077363
+      TowersSpriteSheet_191: -1730459127
+      TowersSpriteSheet_267: 1548943764
+      TowersSpriteSheet_242: -1482715924
+      TowersSpriteSheet_244: -1926828925
+      TowersSpriteSheet_276: 284715698
+      TowersSpriteSheet_197: -139921073
+      TowersSpriteSheet_139: -1524763715
+      TowersSpriteSheet_57: 834670125
+      TowersSpriteSheet_232: -839208363
+      TowersSpriteSheet_171: 173923188
+      MastCell4: -532877628
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

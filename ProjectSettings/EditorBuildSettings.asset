@@ -1,0 +1,161 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/mainMenuMedicator.unity
+    guid: 25ecece11e80bae47b31bea757f97ad4
+  - enabled: 1
+    path: Assets/Scenes/bookStage.unity
+    guid: 1a051aec595510149852969446c13acb
+  - enabled: 1
+    path: Assets/Scenes/FLU/fluLevel1.unity
+    guid: b9a0f6047dd6ae54b856916563386e33
+  - enabled: 1
+    path: Assets/Scenes/FLU/fluLevel2.unity
+    guid: 613fd8a11e25b9c4989c63e8c5b3a66c
+  - enabled: 1
+    path: Assets/Scenes/FLU/fluLevel3.unity
+    guid: 2e67c9bf115390a479c295bd8056d12a
+  - enabled: 1
+    path: Assets/Scenes/FLU/fluLevel4.unity
+    guid: 1769b50766fd184488285adbc31868da
+  - enabled: 1
+    path: Assets/Scenes/FLU/fluLevel5.unity
+    guid: 00b0a4591cd679c4ca0eb80f9d8d601e
+  - enabled: 1
+    path: Assets/Scenes/Quiz/FluQuiz.unity
+    guid: 0ddf060e2566cde44a3e801c3e608f3f
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/FLUCutscene.unity
+    guid: 9ac5e8b715b463f4499ed8dd58958015
+  - enabled: 1
+    path: Assets/Scenes/stageMenu.unity
+    guid: ba3504bf57e395d48acb725e4f6d0ac8
+  - enabled: 1
+    path: Assets/Scenes/illnessBook.unity
+    guid: 400419ad48ed98b46837b240805e3431
+  - enabled: 1
+    path: Assets/Scenes/enemyBook.unity
+    guid: 2b599c8e871d6c842871ad0dd29cfcb3
+  - enabled: 1
+    path: Assets/Scenes/towerBook.unity
+    guid: d43da3d220882b14a97d000fb1b7d3df
+  - enabled: 1
+    path: Assets/Scenes/menuSelector.unity
+    guid: 671dd58c664cffd4e9ae707e5688fa24
+  - enabled: 1
+    path: Assets/Scenes/tutorialLevel.unity
+    guid: ee4e421b9c88c574ea021c45c5309953
+  - enabled: 1
+    path: Assets/Scenes/Trivias/FluTrivia.unity
+    guid: 1ec23fa6212964342873476493c1945a
+  - enabled: 1
+    path: Assets/Scenes/UTI/utiLevel1.unity
+    guid: 8003362cf56ae1a4289e48a5a7a56529
+  - enabled: 1
+    path: Assets/Scenes/UTI/utiLevel2.unity
+    guid: bc13e0f3525f88e4393dc2fc30c33954
+  - enabled: 1
+    path: Assets/Scenes/UTI/utiLevel3.unity
+    guid: b49add22d1a5ead48b68a5b60cd77639
+  - enabled: 1
+    path: Assets/Scenes/UTI/utiLevel4.unity
+    guid: 963ddac803f08064ca6e82f85d64f2bf
+  - enabled: 1
+    path: Assets/Scenes/UTI/utiLevel5.unity
+    guid: 41851841ff263a244b1d415788add63d
+  - enabled: 1
+    path: Assets/Scenes/Quiz/UTIQuiz.unity
+    guid: 8594ba14fa76bd243b914ec5a91193f3
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/UTICutscene.unity
+    guid: 0ca4969134d6aee48946e54521ca2638
+  - enabled: 1
+    path: Assets/Scenes/Amoebiasis/amoebiasisLevel1.unity
+    guid: 23496e75fba12aa4ca8adb396deb7aba
+  - enabled: 1
+    path: Assets/Scenes/Amoebiasis/amoebiasisLevel2.unity
+    guid: 67930b122da438c4dbdf23dd1a752226
+  - enabled: 1
+    path: Assets/Scenes/Amoebiasis/amoebiasisLevel3.unity
+    guid: 54559ac9ddcdaca4fb565e9170c4afc5
+  - enabled: 1
+    path: Assets/Scenes/Amoebiasis/amoebiasisLevel4.unity
+    guid: 3f96ece1e32152e498173a64e9c44704
+  - enabled: 1
+    path: Assets/Scenes/Amoebiasis/amoebiasisLevel5.unity
+    guid: 39dce538cebd8a0419747024e807a45a
+  - enabled: 1
+    path: Assets/Scenes/Quiz/AmoebaQuiz.unity
+    guid: 54553d25b0e24b94baf8aabe875e0260
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/AmoebiasisCutscene.unity
+    guid: 96375cda9130d454e9a2d12e4ff43e94
+  - enabled: 1
+    path: Assets/Scenes/Common Cold/commonColdLevel1.unity
+    guid: fdfb35531c1735c4083fcdc284c4640c
+  - enabled: 1
+    path: Assets/Scenes/Common Cold/commonColdLevel2.unity
+    guid: 108ec8d06b31f4b4dbff14840fcf2434
+  - enabled: 1
+    path: Assets/Scenes/Common Cold/commonColdLevel3.unity
+    guid: e79105b677c3ccb4a81d4555f89d5468
+  - enabled: 1
+    path: Assets/Scenes/Common Cold/commonColdLevel4.unity
+    guid: 8a81ff95b0fefc4499bc365bde3af113
+  - enabled: 1
+    path: Assets/Scenes/Common Cold/commonColdLevel5.unity
+    guid: 615754b12c7cf414684f378ca840aaaa
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/CommonColdCutscene.unity
+    guid: c01bdbf453b071742ab3c0c4a7478b7f
+  - enabled: 1
+    path: Assets/Scenes/Quiz/CommonColdQuiz.unity
+    guid: 06106648b23e2c74cb2ec29cf0eecd77
+  - enabled: 1
+    path: Assets/Scenes/Sore Throat/soreThroatLevel1.unity
+    guid: 40bc1c854f5db0b41a023698c564937e
+  - enabled: 1
+    path: Assets/Scenes/Sore Throat/soreThroatLevel2.unity
+    guid: 3bdb1cfefdd19d94babbc17f66d430eb
+  - enabled: 1
+    path: Assets/Scenes/Sore Throat/soreThroatLevel3.unity
+    guid: 2f8a7e5713033d54bba4e5279bb2ed74
+  - enabled: 1
+    path: Assets/Scenes/Sore Throat/soreThroatLevel4.unity
+    guid: 052ba8de947ff214aad7ab4e65bc50f1
+  - enabled: 1
+    path: Assets/Scenes/Sore Throat/soreThroatLevel5.unity
+    guid: 7bee80c32309b474697ce33965855dfc
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/SorethroatCutscene.unity
+    guid: b6be912eb0857f041ae2a1b515d015d7
+  - enabled: 1
+    path: Assets/Scenes/Quiz/SoreThroatQuiz.unity
+    guid: fb21645cb93085d49ab1e7769a088812
+  - enabled: 1
+    path: Assets/Scenes/Pneumonia/PneumoniaLevel1.unity
+    guid: a627325a5b08cde4a9842babb51893bf
+  - enabled: 1
+    path: Assets/Scenes/Pneumonia/PneumoniaLevel2.unity
+    guid: d5f1f67d76a4a744095394d9c7c0ac8d
+  - enabled: 1
+    path: Assets/Scenes/Pneumonia/PneumoniaLevel3.unity
+    guid: 02669f473a1a5ae49b4774de06606366
+  - enabled: 1
+    path: Assets/Scenes/Pneumonia/PneumoniaLevel4.unity
+    guid: 90a511134f75aa34bb02c6164504b1ac
+  - enabled: 1
+    path: Assets/Scenes/Pneumonia/PneumoniaLevel5.unity
+    guid: 95838546c27e20940b3f0d022913f61f
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/PneumoniaCutscene.unity
+    guid: 556b8c69c793f874fb9d3e0b365887b7
+  - enabled: 1
+    path: Assets/Scenes/Quiz/PneumoniaQuiz.unity
+    guid: cc943fba413317d4596dfe7641758bc0
+  m_configObjects: {}
